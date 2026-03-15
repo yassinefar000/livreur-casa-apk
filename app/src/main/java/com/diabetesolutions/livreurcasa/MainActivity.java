@@ -20,7 +20,7 @@ import com.diabetesolutions.livreurcasa.databinding.ActivityMainBinding;
 public class MainActivity extends AppCompatActivity {
 
     private static final String APP_URL =
-            "https://script.google.com/macros/s/AKfycbz7BRfJZ4bFLe9bIRM4KiQ5JuQrL74ySbbW-O__85HaWn94lth4E6aNyzkJF4Nt68g5aQ/exec?v=50";
+            "https://script.google.com/macros/s/AKfycbz7BRfJZ4bFLe9bIRM4KiQ5JuQrL74ySbbW-O__85HaWn94lth4E6aNyzkJF4Nt68g5aQ/exec";
 
     private ActivityMainBinding binding;
 
